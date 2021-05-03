@@ -2,7 +2,7 @@
 Hedefi kilo vermek veya kilo almak olan bir kimsenin aktif metabolizma hızına bağlı
 olarak alacağı ya da vereceği kalori miktarını
 hesaplayan bulanık mantık tabanına dayanan bir
-diyet takip sistemiydi.
+diyet takip sistemi.
 
 Proje Grup Üyeleri : Emre Alphan, Poyraz Aktaş , Orkun Alkan 
 
